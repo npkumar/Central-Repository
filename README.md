@@ -4,7 +4,6 @@ Central-Repository
 A central download-upload server using Blob storage. 
 Ideally upload files < 10 MB in size.
 
-Features include:
 <ol>
 <li>Searching by file type</li>
 <li>Searching by file name</li>
